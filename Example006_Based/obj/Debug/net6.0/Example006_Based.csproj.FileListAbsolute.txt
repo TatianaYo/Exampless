@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\Example006_Based.exe
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\Example006_Based.deps.json
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\Example006_Based.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\Example006_Based.dll
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\ref\Example006_Based.dll
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\bin\Debug\net6.0\Example006_Based.pdb
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.dll
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\ref\Example006_Based.dll
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.pdb
+C:\Users\Пользователь\Desktop\Exampless\Example006_Based\obj\Debug\net6.0\Example006_Based.genruntimeconfig.cache
